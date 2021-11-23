@@ -7,6 +7,17 @@
         - Typescript
         - HTML
         - CSS (Bootstrap 4)
+        - 
+
+        Llenguatges:
+        - PHP (Frameworks: Laravel i Codeigniter 4 // Test: PHPUnit)
+        - Java
+        - Javascript (Llibraries: JQuery i React)
+        - Typescript
+        - HTML
+        - CSS (Bootstrap 4)
+        - 
+       
 - 👀 Actualment formant-me en: 
         · Angular 6
         · Angular 4
