@@ -8,12 +8,12 @@
         · HTML   
         · CSS (Bootstrap 4)
         
-      · Bade de dades SQL:      
+      - Bade de dades SQL:      
         · MySQL
         · Oracle
         · Postgres
         
-      · Control de versions:
+      - Control de versions:
         · GIT
         
         
